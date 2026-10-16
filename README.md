@@ -4,7 +4,12 @@ This repository contains beginner-friendly Python scripts and notes focused on *
 
 ## 📂 Files Included
 
-* **`simple_robot_mover.py`**: A basic ROS 2 Python node that publishes linear velocity commands (`/cmd_vel`) to make a simulated robot (such as TurtleBot3) move forward[cite: 1].
+* **`simple_robot_mover.py`**: A basic ROS 2 Python node that publishes linear velocity commands (`/cmd_vel`) to make a simulated robot (such as TurtleBot3) move forward.
+* **`084_Gummala_Naga_Dhanush.pdf`**: Workshop completion certificate PDF.
+
+## 📜 Workshop Certificate
+You can view my ROS 2 workshop completion certificate here:
+* [View Certificate PDF](./084_Gummala_Naga_Dhanush.pdf)
 
 ## 🚀 Key Topics Covered
 * **ROS 2 Architecture:** Nodes, publishers, and topics (`/cmd_vel`)
